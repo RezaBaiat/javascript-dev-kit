@@ -1,6 +1,6 @@
 {
   "private": false,
-  "name": "javascript-dev-kit",
+  "name": "js-dev-kit",
   "version": "0.0.1",
   "scripts": {
     "upgradeLatest": "yarn upgrade-interactive --latest",
